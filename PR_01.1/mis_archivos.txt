@@ -1,0 +1,5 @@
+total 8
+drwxrwxr-x 4 aleix aleix 4096 Oct 16 08:02 BigData2526
+drwxrwxr-x 2 aleix aleix 4096 Oct 16 08:49 mi_bin
+-rw-rw-r-- 1 aleix aleix    0 Oct 16 10:08 test_locate.txt
+Mon Oct 20 07:29:56 AM UTC 2025

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [ "$1" -eq "$2" ]; then
+	echo "iguales"
+else
+	echo "diferentes"
+
+fi
